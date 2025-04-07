@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/selvakumar1190/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/selvakumar1190/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/selvakumar1190/leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,5 +21,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
 | [0932-monotonic-array](https://github.com/selvakumar1190/leetcode/tree/master/0932-monotonic-array) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
