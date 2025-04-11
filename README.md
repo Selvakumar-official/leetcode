@@ -22,9 +22,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
+| [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/selvakumar1190/leetcode/tree/master/0932-monotonic-array) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
