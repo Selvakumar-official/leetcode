@@ -5,5 +5,6 @@ class Solution {
         }
         Arrays.sort(nums);
         return nums;
+        
     }
 }
