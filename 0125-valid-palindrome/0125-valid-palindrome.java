@@ -11,7 +11,8 @@ class Solution {
     }
     public static boolean palin(String sl){
         StringBuilder sb= new StringBuilder(sl);
-        // String rev = sb.reverse().toString
         return sl.equals(sb.reverse().toString());
     }
+
+
 }
