@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/selvakumar1190/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/selvakumar1190/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
+| [2998-count-symmetric-integers](https://github.com/selvakumar1190/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/selvakumar1190/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
