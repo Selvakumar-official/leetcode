@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/selvakumar1190/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
 | [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/selvakumar1190/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/selvakumar1190/leetcode/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvakumar1190/leetcode/tree/master/1019-squares-of-a-sorted-array) |
