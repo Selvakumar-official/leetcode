@@ -1,6 +1,6 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int c=0,t=0,f=0;
+        int c=0,t=0;
         for(int i=0;i<bills.length;i++){
                if(bills[i]==5){
                 c++;
@@ -15,7 +15,7 @@ class Solution {
                 }
                }
                if(bills[i]==20){
-                f++;
+                
                 if(c>0&&t>0){
                     c--;
                     t--;
