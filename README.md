@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
+| [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/selvakumar1190/leetcode/tree/master/0932-monotonic-array) |
 ## Matrix
@@ -31,13 +32,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
