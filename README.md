@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/selvakumar1190/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/selvakumar1190/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/selvakumar1190/leetcode/tree/master/0258-add-digits) |
 | [2998-count-symmetric-integers](https://github.com/selvakumar1190/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Hash Table
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/selvakumar1190/leetcode/tree/master/2998-count-symmetric-integers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/selvakumar1190/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/selvakumar1190/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
