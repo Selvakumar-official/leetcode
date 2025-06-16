@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/selvakumar1190/leetcode/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/selvakumar1190/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/selvakumar1190/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/selvakumar1190/leetcode/tree/master/0048-rotate-image) |
+| [0217-contains-duplicate](https://github.com/selvakumar1190/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/selvakumar1190/leetcode/tree/master/0890-lemonade-change) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/selvakumar1190/leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/selvakumar1190/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/selvakumar1190/leetcode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/selvakumar1190/leetcode/tree/master/1019-squares-of-a-sorted-array) |
